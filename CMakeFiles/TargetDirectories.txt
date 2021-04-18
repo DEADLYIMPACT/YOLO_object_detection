@@ -1,0 +1,6 @@
+C:/Users/ASUS/Aakash/Coding/Python K12/darknet/CMakeFiles/dark.dir
+C:/Users/ASUS/Aakash/Coding/Python K12/darknet/CMakeFiles/uselib.dir
+C:/Users/ASUS/Aakash/Coding/Python K12/darknet/CMakeFiles/INSTALL.dir
+C:/Users/ASUS/Aakash/Coding/Python K12/darknet/CMakeFiles/darknet.dir
+C:/Users/ASUS/Aakash/Coding/Python K12/darknet/CMakeFiles/ALL_BUILD.dir
+C:/Users/ASUS/Aakash/Coding/Python K12/darknet/CMakeFiles/ZERO_CHECK.dir
